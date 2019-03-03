@@ -1,0 +1,15 @@
+API Homework
+Three Observations
+(You must include a written description of three observable trends based on the data.)
+
+1. There is a correlation between temperature and latitude. Temperature gets hotter at the equator. 
+   In my Temperature vs Latitude chart, the the hottest visible plot is near 100 degrees Fehrenheit.  
+
+2. There is no strong correlation between latitude and humidity.
+
+3. There is no strong correlation between latitude and cloudiness.
+
+4. There is slight correlation between winds and latitude, as wind speeds seem stronger away from the equator.
+
+
+
